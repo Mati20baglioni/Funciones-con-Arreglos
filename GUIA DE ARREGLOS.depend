@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1711836474 source:c:\users\cami\desktop\guias\guia de arreglos\pila.c
+	"pila.h"
+
+1711836474 c:\users\cami\desktop\guias\guia de arreglos\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1712602192 source:c:\users\cami\desktop\guias\guia de arreglos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<string.h>
+
+1711825674 source:c:\users\matia\onedrive\escritorio\guias\guia de arreglos\pila.c
+	"pila.h"
+
+1711825674 c:\users\matia\onedrive\escritorio\guias\guia de arreglos\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1714016304 source:c:\users\matia\onedrive\escritorio\guias\guia de arreglos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<string.h>
+
+1714016304 source:c:\users\matia\onedrive\escritorio\guias\guias de la cursada\guia de arreglos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<string.h>
+
+1711825674 c:\users\matia\onedrive\escritorio\guias\guias de la cursada\guia de arreglos\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1711825674 source:c:\users\matia\onedrive\escritorio\guias\guias de la cursada\guia de arreglos\pila.c
+	"pila.h"
+
